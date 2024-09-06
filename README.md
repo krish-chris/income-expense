@@ -1,6 +1,6 @@
 # shopie
 
-A new Flutter project.
+This is simple app where user(staff) can update the income and expense and once admin verifies and approves then it is represented in overview which is only visible to admin 
 
 ## Getting Started
 
